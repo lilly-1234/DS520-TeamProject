@@ -1,1 +1,1 @@
-# DS520---Home-Price-Prediction
+# DS520 - Team Project
