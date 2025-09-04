@@ -1,5 +1,10 @@
-# DS520 - Team Project
+# DS520 - Team Project 
 # Title - Home Price Prediction with Population Trends 
+# Team 04
+1. Likhitha Lakshmi Gudivada
+2. Vidhiben Ashokbhai Vanani
+3. Akhila Maddela
+4. Hemanth Goud Donekena
 
 ## Project Overview
 This project studies housing prices in the United States from 1975 to 2025.  
